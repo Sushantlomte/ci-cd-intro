@@ -1,6 +1,6 @@
 name: Continuous Integration Workflow
 
-# This workflow is triggered whenever a new PR is created on the main branch
+# This workflow is triggered whenever a new PR is created on the main branch or a push is made to the main branch
 on:
   pull_request:
     branches:
